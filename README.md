@@ -1,5 +1,8 @@
-# concluded-wgs
-A place to capture information about concluded wgs that the datatracker does not yet know about
+# Concluded Group Information
+
+This is a place to capture information about concluded groups (Working Groups, Research Groups, etc.) that the datatracker may not yet know about.
+
+This page was hosted by Henrik Levkowetz for many years.  Much of the historic information available here was provided by Scott O. Bradner. Many thanks!
 
 | WG | Area | Chartered | Concluded | Archive | Name |
 |----|------|-----------|-----------|---------|------|
