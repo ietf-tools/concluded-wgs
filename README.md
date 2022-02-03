@@ -8,7 +8,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 |----|------|-----------|-----------|---------|------|
 | [16ng](https://datatracker.ietf.org/group/16ng) | int | 2006-Jun-28 | 2010-Jun-07 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/16ng) | IP over IEEE 802.16 Networks |
 | [2000](https://datatracker.ietf.org/group/2000) | ops | 1997-Feb-26 | 2000-Jan-24 | [listserv.surfnet.nl](http://listserv.surfnet.nl/archives/2000.html) | The Internet and the Millennium Problem |
-| [6bone](https://datatracker.ietf.org/group/6bone) | ops | | 1997-Jan-15 | []() | IPv6 Backbone |
+| 6bone | ops | | 1997-Jan-15 | []() | IPv6 Backbone |
 | [6lowpan](https://datatracker.ietf.org/group/6lowpan) | int | 2005-Mar-08 | 2014-Jan-16 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/6lowpan/) | IPv6 over Low power WPAN |
 | [6renum](https://datatracker.ietf.org/group/6renum) | ops | 2011-Jun-14 | 2013-Oct-11 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/renum/) | IPv6 Site Renumbering |
 | [822ext](https://datatracker.ietf.org/group/822ext) | app | 1991-Apr-15 | 1993-Oct-06 | []() | Internet Message Extensions |
@@ -35,12 +35,12 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [armd](https://datatracker.ietf.org/group/armd) | ops | 2011-Mar-21 | 2012-Oct-23 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/armd/) | Address Resolution for Massive numbers of hosts in the Data center |
 | [arts](https://datatracker.ietf.org/group/arts) | usv | | 2008-Mar-28 | []() | |
 | [asid](https://datatracker.ietf.org/group/asid) | app | 1994-Jun-09 | 1999-Feb-26 | [terminator.rs.itd.umich.edu](ftp://terminator.rs.itd.umich.edu/ietf-asid/archive) ftp://terminator.rs.itd.umich.edu/ietf-asid/archive | Access, Searching and Indexing of Directories |
-| [atm](https://datatracker.ietf.org/group/atm) | int | 1991-Oct-17 | 1994-Apr-15 | []() | IP over ATM |
+| atm | int | 1991-Oct-17 | 1994-Apr-15 | []() | IP over ATM |
 | [atoca](https://datatracker.ietf.org/group/atoca) | rai | 2010-Aug-17 | 2012-Nov-14 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/atoca) | Authority-to-Citizen Alert |
 | [atommib](https://datatracker.ietf.org/group/atommib) | mgt | 1995-Feb-09 | 2004-Nov-02 | [ftp.research.telcordia.com](ftp://ftp.research.telcordia.com/pub/Group.archive/atommib) ftp://ftp.research.telcordia.com/pub/Group.archive/atommib | AToM MIB |
 | [atompub](https://datatracker.ietf.org/group/atompub) | app | 2004-Jun-16 | 2008-Mar-28 | [www.imc.org](http://www.imc.org/atom-syntax/mail-archive/) | Atom Publishing Format and Protocol |
-| [attic](https://datatracker.ietf.org/group/attic) | | | 2016-Nov-05 | []() | |
-| [auth](https://datatracker.ietf.org/group/auth) | | pre jun-1988 | | []() | Authentication |
+| attic | | | 2016-Nov-05 | []() | |
+| auth | | pre jun-1988 | | []() | Authentication |
 | [autoconf](https://datatracker.ietf.org/group/autoconf) | int | 2005-Oct-25 | 2012-Mar-06 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/autoconf/) | Ad-Hoc Network Autoconfiguration |
 | [avt](https://datatracker.ietf.org/group/avt) | rai | 1992-Mar-05 | 2011-Mar-19 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/avt) | Audio/Video Transport |
 | [avtext](https://datatracker.ietf.org/group/avtext) | art | 2011-Jan-26 | 2017-Aug-11 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/avt/) | Audio/Video Transport Extensions |
@@ -98,7 +98,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [dnsind](https://datatracker.ietf.org/group/dnsind) | int | 1994-Jun-09 | 2000-Jan-26 | [rs.internic.net](ftp://rs.internic.net/archives/namedroppers) ftp://rs.internic.net/archives/namedroppers | DNS IXFR, Notification, and Dynamic Update |
 | [dnssec](https://datatracker.ietf.org/group/dnssec) | svap | 1994-Mar-04 | 1999-Dec-20 | [ftp.tis.com](ftp://ftp.tis.com/pub/lists/dns-security) ftp://ftp.tis.com/pub/lists/dns-security | Domain Name System Security |
 | [doh](https://datatracker.ietf.org/group/doh) | art | 2017-Oct-10 | 2020-Mar-17 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/doh/) | DNS Over HTTPS |
-| [domain](https://datatracker.ietf.org/group/domain) | N/A | pre jun-1988 | pre 12/1989 | []() | Domain |
+| domain | N/A | pre jun-1988 | pre 12/1989 | []() | Domain |
 | [drinks](https://datatracker.ietf.org/group/drinks) | art | 2008-Jun-13 | 2016-Apr-18 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/drinks/) | Data for Reachability of Inter/tra-NetworK SIP |
 | [drums](https://datatracker.ietf.org/group/drums) | app | 1995-May-22 | 2001-Apr-26 | [cs.utk.edu](ftp://cs.utk.edu/pub/list-archives/drums/mail-archive) ftp://cs.utk.edu/pub/list-archives/drums/mail-archive | Detailed Revision/Update of Message Standards |
 | [e2md](https://datatracker.ietf.org/group/e2md) | | | ?? | []() | |
@@ -107,7 +107,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [ecm](https://datatracker.ietf.org/group/ecm) | tsv | 1999-Oct-27 | 2001-Jun-29 | [ftp.ietf.org](ftp://ftp.ietf.org/ietf-mail-archive/) ftp://ftp.ietf.org/ietf-mail-archive/ | Endpoint Congestion Management |
 | [edi](https://datatracker.ietf.org/group/edi) | app | 1994-May-23 | 1995-Jul-15 | [ftp.sterling.com](ftp://ftp.sterling.com/edi/lists/ietf-edi) ftp://ftp.sterling.com/edi/lists/ietf-edi | Electonic Data Interchange |
 | [ediint](https://datatracker.ietf.org/group/ediint) | app | | 2008-Mar-28 | [www.imc.org](http://www.imc.org/ietf-ediint/) | Electronic Data Interchange-Internet Integration |
-| [egp3](https://datatracker.ietf.org/group/egp3) | | pre jun-1988 | | []() | EGP3 |
+| egp3 | | pre jun-1988 | | []() | EGP3 |
 | [eii](https://datatracker.ietf.org/group/eii) | ops | 1994-Nov-01 | 1997-Jan-15 | []() | Emergency Information Infrastructure |
 | [eman](https://datatracker.ietf.org/group/eman) | ops | 2010-Sep-28 | 2015-Jun-08 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/eman) | Energy Management |
 | [end2end](https://datatracker.ietf.org/group/end2end) | ops | 1990-Jan-12 | 1990-Feb-15 | []() | end-to-end user connectivity |
@@ -134,7 +134,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [gisd](https://datatracker.ietf.org/group/gisd) | ora | | 2008-Mar-28 | [ftp.ripe.net](ftp://ftp.ripe.net/ripe/archives/gisd-wg/current) ftp://ftp.ripe.net/ripe/archives/gisd-wg/current | |
 | [git](https://datatracker.ietf.org/group/git) | gen | 2019-Feb-08 | 2020-Sep-10 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/ietf-and-github/) | GitHub Integration and Tooling |
 | [grip](https://datatracker.ietf.org/group/grip) | ops | 1995-Feb-10 | 2002-Jan-03 | [www-ext.eng.uu.net](http://www-ext.eng.uu.net/grip-wg/grip-wg.txt) | Guidelines & Recomendations for Security Incident Processing |
-| [gsid](https://datatracker.ietf.org/group/gsid) | ops | 1993-Sep-24 | 1995-Oct-19 | []() | Generic Internet Service Description |
+| gsid | ops | 1993-Sep-24 | 1995-Oct-19 | []() | Generic Internet Service Description |
 | [gsmp](https://datatracker.ietf.org/group/gsmp) | sub | | 2008-Mar-28 | [ftp.ietf.org](ftp://ftp.ietf.org/ietf-mail-archive/gsmp/) ftp://ftp.ietf.org/ietf-mail-archive/gsmp/ | |
 | [harts](https://datatracker.ietf.org/group/harts) | usv | 1995-May-31 | 1997-Aug-01 | [nfs](ftp://nfs/ftp/harts/harts.mail) ftp://nfs/ftp/harts/harts.mail | Humanities and Arts |
 | [hip](https://datatracker.ietf.org/group/hip) | int | 2004-Feb-05 | 2021-Aug-23 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/hipsec/) | Host Identity Protocol |
@@ -167,14 +167,14 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [imapapnd](https://datatracker.ietf.org/group/imapapnd) | art | 2015-Jun-26 | 2016-May-19 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/imapext/) | IMAP APPEND Extensions |
 | [imapext](https://datatracker.ietf.org/group/imapext) | app | | 2008-Jun-17 | [www.imc.org](http://www.imc.org/ietf-imapext/) | Internet Message Access Protocol Extension |
 | [imapmove](https://datatracker.ietf.org/group/imapmove) | app | 2012-Jul-17 | 2013-Jan-31 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/imapext/) | IMAP MOVE extension |
-| [imib](https://datatracker.ietf.org/group/imib) | | pre jun-1988 | | []() | Internet MIB |
+| imib | | pre jun-1988 | | []() | Internet MIB |
 | [imm](https://datatracker.ietf.org/group/imm) | tsv | | 2008-Mar-28 | []() | |
 | [impp](https://datatracker.ietf.org/group/impp) | app | | 2008-Mar-28 | [www.imppwg.org](http://www.imppwg.org) | |
 | [imss](https://datatracker.ietf.org/group/imss) | ops | | 2009-Jan-15 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/imss) | Internet and Management Support for Storage |
 | [inch](https://datatracker.ietf.org/group/inch) | sec | | 2008-Mar-28 | [listserv.surfnet.nl](http://listserv.surfnet.nl/archives/inch.html) | Extended Incident Handling |
 | [insipid](https://datatracker.ietf.org/group/insipid) | art | 2012-Mar-19 | 2018-Oct-02 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/insipid/) | INtermediary-safe SIP session ID |
 | [int](https://datatracker.ietf.org/group/int) | | | 2012-Jul-29 | []() | Internet Area (int) |
-| [inter](https://datatracker.ietf.org/group/inter) | | 1988-Sep-15 | | []() | Interconnectivity |
+| inter | | 1988-Sep-15 | | []() | Interconnectivity |
 | [intserv](https://datatracker.ietf.org/group/intserv) | tsv | 1994-May-12 | 2000-Dec-21 | [ftp.isi.edu](ftp://ftp.isi.edu/int-serv/int-serv.mail) ftp://ftp.isi.edu/int-serv/int-serv.mail | Integrated Services |
 | [ion](https://datatracker.ietf.org/group/ion) | int/rtg | 1996-May-21 | 2000-Jun-16 | [ftp.ietf.org](ftp://ftp.ietf.org/ietf-mail-archive/ion) ftp://ftp.ietf.org/ietf-mail-archive/ion | Internetworking Over NBMA |
 | [ip1394](https://datatracker.ietf.org/group/ip1394) | int | 1997-Jul-21 | 2000-Jun-19 | []() | IP Over IEEE 1394 |
@@ -224,7 +224,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [karp](https://datatracker.ietf.org/group/karp) | rtg | 2010-Feb-22 | 2014-May-30 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/karp/) | Keying and Authentication for Routing Protocols |
 | [keyprov](https://datatracker.ietf.org/group/keyprov) | sec | 2007-Jan-30 | 2010-Dec-21 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/keyprov) | Provisioning of Symmetric Keys |
 | [kink](https://datatracker.ietf.org/group/kink) | sec | | 2008-Mar-28 | [www.vpnc.org](http://www.vpnc.org/ietf-kink/) | Kerberized Internet Negotiation of Keys |
-| [krb-](https://datatracker.ietf.org/group/krb-) | | | 2010-Oct-21 | []() | |
+| krb- | | | 2010-Oct-21 | []() | |
 | [krb-wg](https://datatracker.ietf.org/group/krb-wg) | sec | 2000-Jul-13 | 2013-Mar-19 | [lists.anl.gov](https://lists.anl.gov/pipermail/ietf-krb-wg/) | Kerberos |
 | [l1vpn](https://datatracker.ietf.org/group/l1vpn) | rtg | 2005-Jun-29 | 2009-Mar-27 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/l1vpn/current/maillist.html) | Layer 1 Virtual Private Networks |
 | [l2sm](https://datatracker.ietf.org/group/l2sm) | ops | 2016-Nov-04 | 2018-Dec-21 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/l2sm/) | L2VPN Service Model |
@@ -233,7 +233,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [l3sm](https://datatracker.ietf.org/group/l3sm) | ops | 2015-Mar-24 | 2016-Nov-30 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/l3sm/) | L3VPN Service Model |
 | [l3vpn](https://datatracker.ietf.org/group/l3vpn) | rtg | 2003-Jul-03 | 2014-Oct-22 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/l3vpn/) | Layer 3 Virtual Private Networks |
 | [lager](https://datatracker.ietf.org/group/lager) | art | 2015-Jul-10 | 2016-Oct-27 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/lager/) | Label Generation Rules |
-| [landmark](https://datatracker.ietf.org/group/landmark) | | 1998-Jun-15 | | []() | Landmark Routing |
+| landmark | | 1998-Jun-15 | | []() | Landmark Routing |
 | [lanman](https://datatracker.ietf.org/group/lanman) | mgt | pre 2/1990 | 1991-Mar-15 | []() | LAN Manager |
 | [ldapbis](https://datatracker.ietf.org/group/ldapbis) | app | | 2008-Mar-28 | [www.openldap.org](http://www.openldap.org/lists/ietf-ldapbis/) | LDAP (v3) Revision |
 | [ldapext](https://datatracker.ietf.org/group/ldapext) | app | 1997-Nov-07 | 2003-Apr-04 | [ftp.ietf.org](ftp://ftp.ietf.org/ietf-mail-archive/ldapext/) ftp://ftp.ietf.org/ietf-mail-archive/ldapext/ | LDAP Extension |
@@ -243,8 +243,8 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [lime](https://datatracker.ietf.org/group/lime) | ops | 2014-Oct-17 | 2018-Feb-26 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/lime/) | Layer Independent OAM Management in the Multi-Layer Environment |
 | [list](https://datatracker.ietf.org/group/list) | app | 1991-Aug-01 | 1992-Oct-16 | []() | Automated Internet Mailing List Services |
 | [lmap](https://datatracker.ietf.org/group/lmap) | ops | 2013-Jun-28 | 2018-Feb-23 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/lmap/) | Large-Scale Measurement of Broadband Performance |
-| [lsd](https://datatracker.ietf.org/group/lsd) | o&m | 1998-Jan-22 | 1998-Nov-25 | [ftp.umu.se](ftp://ftp.umu.se/ietf-lsd/archive) ftp://ftp.umu.se/ietf-lsd/archive | LDAP Service Deployment |
-| [lsdtrip](https://datatracker.ietf.org/group/lsdtrip) | rai | 2010-Jul-16 | 2010-Jul-16 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/lsd/current/maillist.html) | Loosely-coupled SIP Devices Transfering and Receiving IP Packets |
+| lsd | o&m | 1998-Jan-22 | 1998-Nov-25 | [ftp.umu.se](ftp://ftp.umu.se/ietf-lsd/archive) ftp://ftp.umu.se/ietf-lsd/archive | LDAP Service Deployment |
+| lsdtrip | rai | 2010-Jul-16 | 2010-Jul-16 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/lsd/current/maillist.html) | Loosely-coupled SIP Devices Transfering and Receiving IP Packets |
 | [lsma](https://datatracker.ietf.org/group/lsma) | app | 1996-Dec-23 | 2000-Feb-14 | []() | Large Scale Multicast Application |
 | [ltans](https://datatracker.ietf.org/group/ltans) | sec | 2003-Oct-20 | 2011-Jul-20 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/ltans/current/maillist.html) | Long-Term Archive and Notary Services |
 | [ltru](https://datatracker.ietf.org/group/ltru) | app | 2005-Mar-08 | 2009-Nov-30 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/ltru/current/maillist.html) | Language Tag Registry Update |
@@ -282,7 +282,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [msdp](https://datatracker.ietf.org/group/msdp) | rtg | | 2008-Mar-28 | [ns.uoregon.edu](ftp://ns.uoregon.edu/mailing-lists/msdp*) ftp://ns.uoregon.edu/mailing-lists/msdp* | |
 | [msec](https://datatracker.ietf.org/group/msec) | sec | 2001-Feb-08 | 2011-Oct-17 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/msec/current/maillist.html) | Multicast Security |
 | [msgtrk](https://datatracker.ietf.org/group/msgtrk) | app | | 2008-Mar-28 | [www.imc.org](http://www.imc.org/ietf-msgtrk/mail-archive/) | |
-| [msgway](https://datatracker.ietf.org/group/msgway) | int | 1995-Jul-06 | 1996-Sep-05 | [ftp.isi.edu](ftp://ftp.isi.edu/msgway/msgway.mail) ftp://ftp.isi.edu/msgway/msgway.mail | MessageWay |
+| msgway | int | 1995-Jul-06 | 1996-Sep-05 | [ftp.isi.edu](ftp://ftp.isi.edu/msgway/msgway.mail) ftp://ftp.isi.edu/msgway/msgway.mail | MessageWay |
 | [msi](https://datatracker.ietf.org/group/msi) | mgt | 1989-Oct-15 | 1991-Aug-01 | []() | Management Services Interface |
 | [mtgvenue](https://datatracker.ietf.org/group/mtgvenue) | gen | 2016-Jul-01 | 2020-Apr-30 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/search/?email_list=mtgvenue) | Meeting Venue |
 | [mtudisc](https://datatracker.ietf.org/group/mtudisc) | int | pre 12/1989 | 1990-Sep-15 | []() | Maximum Transmission Unit Discovery |
@@ -319,7 +319,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [oda](https://datatracker.ietf.org/group/oda) | osi | 1991-Mar-15 | 1993-Apr-19 | []() | Office Document Architecture |
 | [odv](https://datatracker.ietf.org/group/odv) | rtg | 1989-Jul-15 | 1990-May-15 | []() | Open Distance Vector IGP |
 | [oim](https://datatracker.ietf.org/group/oim) | mgt | 1989-Oct-15 | 1992-Apr-15 | []() | OSI Internet Management |
-| [oinoc](https://datatracker.ietf.org/group/oinoc) | | pre jun-1988 | | []() | Open INOC |
+| oinoc | | pre jun-1988 | | []() | Open INOC |
 | [oncrpc](https://datatracker.ietf.org/group/oncrpc) | svapp | 1994-Mar-13 | 2001-Jan-23 | [playground.sun.com](ftp://playground.sun.com/pub/oncrpc) ftp://playground.sun.com/pub/oncrpc | ONC Remote Procedure Call |
 | [opes](https://datatracker.ietf.org/group/opes) | app | | 2008-Mar-28 | [www1.ietf.org](http://www1.ietf.org/mail-archive/web/newtrk/current/) | Open Pluggable Edge Services |
 | [ops](https://datatracker.ietf.org/group/ops) | | | 2006-Mar-28 | []() | |
@@ -327,12 +327,12 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [orwg](https://datatracker.ietf.org/group/orwg) | rtg | pre 3/1990 | pre feb-1991 | []() | Open Systems Routing |
 | [osids](https://datatracker.ietf.org/group/osids) | osi | 1990-Oct-15 | 1994-Nov-04 | []() | OSI Directory Services |
 | [osigen](https://datatracker.ietf.org/group/osigen) | osi | 1989-Jan-15 | 1992-Jun-10 | []() | OSI General |
-| [osigp](https://datatracker.ietf.org/group/osigp) | | 1988-Mar-15 | ?? | []() | Open SPF-based IGP |
+| osigp | | 1988-Mar-15 | ?? | []() | Open SPF-based IGP |
 | [osinsap](https://datatracker.ietf.org/group/osinsap) | osi | 1990-Jan-19 | 1991-Mar-15 | []() | OSI NSAP Guidelines |
-| [ositi](https://datatracker.ietf.org/group/ositi) | | pre jun-1988 | | []() | OSI Technical Issues |
+| ositi | | pre jun-1988 | | []() | OSI Technical Issues |
 | [osix400](https://datatracker.ietf.org/group/osix400) | osi | 1990-Feb-15 | 1991-Aug-01 | []() | OSI X.400 |
 | [ospf](https://datatracker.ietf.org/group/ospf) | rtg | 1988-Mar-01 | 2018-Mar-01 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/ospf/) | Open Shortest Path First IGP |
-| [osr](https://datatracker.ietf.org/group/osr) | | pre jun-1988 | | []() | Open Systems Routing |
+| osr | | pre jun-1988 | | []() | Open Systems Routing |
 | [otp](https://datatracker.ietf.org/group/otp) | sec | 1995-Jun-10 | 2002-Oct-29 | [ftp.research.telcordia.com](ftp://ftp.research.telcordia.com/pub/ietf-otp/archive) ftp://ftp.research.telcordia.com/pub/ietf-otp/archive | One Time Password Authentication |
 | [p2psip](https://datatracker.ietf.org/group/p2psip) | art | 2007-Feb-21 | 2016-Dec-23 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/p2psip/) | Peer-to-Peer Session Initiation Protocol |
 | [pana](https://datatracker.ietf.org/group/pana) | int | | 2009-Dec-04 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/pana) | Protocol for carrying Authentication for Network Access |
@@ -347,7 +347,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [pilc](https://datatracker.ietf.org/group/pilc) | tsv | 1999-Apr-28 | 2004-Jan-08 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/pilc) | Performance Implications of Link Characteristics |
 | [pint](https://datatracker.ietf.org/group/pint) | tsv | 1997-Jul-24 | 2001-Feb-12 | [www.bell-labs.com](http://www.bell-labs.com/mailing-lists/pint/) | PSTN and Internet Internetworking |
 | [pip](https://datatracker.ietf.org/group/pip) | int | 1992-Oct-02 | 1994-Feb-22 | []() | P Internet Protocol |
-| [pki4ipse](https://datatracker.ietf.org/group/pki4ipse) | sec | | 2006-Mar-28 | [honor.icsalabs.com](http://honor.icsalabs.com/mailman/listinfo/pki4ipsec) | Profiling Use of PKI in IPSEC |
+| pki4ipse | sec | | 2006-Mar-28 | [honor.icsalabs.com](http://honor.icsalabs.com/mailman/listinfo/pki4ipsec) | Profiling Use of PKI in IPSEC |
 | [pki4ipsec](https://datatracker.ietf.org/group/pki4ipsec) | sec | | 2008-Mar-28 | [honor.icsalabs.com](http://honor.icsalabs.com/mailman/listinfo/pki4ipsec) | Profiling Use of PKI in IPSEC |
 | [pkix](https://datatracker.ietf.org/group/pkix) | sec | 1995-Oct-26 | 2013-Oct-31 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/pkix/) | Public-Key Infrastructure (X.509) |
 | [pktway](https://datatracker.ietf.org/group/pktway) | int | 1996-Sep-05 | 1999-Aug-11 | [ftp.isi.edu](ftp://ftp.isi.edu/pktway/pktway.mail) ftp://ftp.isi.edu/pktway/pktway.mail | PacketWay |
@@ -371,7 +371,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [psamp](https://datatracker.ietf.org/group/psamp) | ops | | 2009-Aug-21 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/psamp) | Packet Sampling |
 | [ptomaine](https://datatracker.ietf.org/group/ptomaine) | ops | | 2008-Mar-28 | [www.shrubbery.net](http://www.shrubbery.net/ptomaine) | |
 | [ptopomib](https://datatracker.ietf.org/group/ptopomib) | mgt | 1996-Oct-29 | 2000-Oct-03 | []() | Physical Topology MIB |
-| [ptpt](https://datatracker.ietf.org/group/ptpt) | N/A | pre jun-1988 | pre-jan-1989 | []() | Pt-Pt Protocol |
+| ptpt | N/A | pre jun-1988 | pre-jan-1989 | []() | Pt-Pt Protocol |
 | [pwe3](https://datatracker.ietf.org/group/pwe3) | rtg | 2001-Mar-14 | 2014-Nov-20 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/pwe3/) | Pseudowire Emulation Edge to Edge |
 | [qosr](https://datatracker.ietf.org/group/qosr) | rtg | 1997-Feb-20 | 1999-Apr-06 | []() | QoS Routing |
 | [qresync](https://datatracker.ietf.org/group/qresync) | app | 2013-Apr-29 | 2014-May-27 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/imapext/) | IMAP QRESYNC Extension |
@@ -386,9 +386,9 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [repute](https://datatracker.ietf.org/group/repute) | app | 2011-Nov-07 | 2013-Nov-22 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/domainrep/) | Reputation Services |
 | [rescap](https://datatracker.ietf.org/group/rescap) | app | | 2008-Mar-28 | [cs.utk.edu](ftp://cs.utk.edu/pub/rescap) ftp://cs.utk.edu/pub/rescap | |
 | [rip](https://datatracker.ietf.org/group/rip) | rtg | 1995-Feb-26 | 2003-Jun-17 | [xylogics.com](ftp://xylogics.com/pub/users/gmalkin/rip/rip-arc) ftp://xylogics.com/pub/users/gmalkin/rip/rip-arc | Routing Information Protocol |
-| [ripag](https://datatracker.ietf.org/group/ripag) | | pre  jun-1988 | | []() | RIP Advisory Group |
+| ripag | | pre  jun-1988 | | []() | RIP Advisory Group |
 | [ripv2](https://datatracker.ietf.org/group/ripv2) | rtg | 1993-May-28 | 1995-Feb-26 | [xylogics.com](ftp://xylogics.com/gmalkin/rip/rip-arc) ftp://xylogics.com/gmalkin/rip/rip-arc | RIP Version II |
-| [rlanmib](https://datatracker.ietf.org/group/rlanmib) | mgt | 1990-Aug-15 | pre 1-1992 | []() | Remote LAN Monitoring |
+| rlanmib | mgt | 1990-Aug-15 | pre 1-1992 | []() | Remote LAN Monitoring |
 | [rmonmib](https://datatracker.ietf.org/group/rmonmib) | ops | | 2008-Mar-28 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/rmonmib) | Remote Network Monitoring |
 | [rmt](https://datatracker.ietf.org/group/rmt) | tsv | 1999-Apr-22 | 2013-Sep-06 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/rmt/) | Reliable Multicast Transport |
 | [roamops](https://datatracker.ietf.org/group/roamops) | ops | 1996-Nov-25 | 2001-Jan-24 | [ftp-no.rutgers.edu](ftp://ftp-no.rutgers.edu/misc/IETF/roamops) ftp://ftp-no.rutgers.edu/misc/IETF/roamops | Roaming Operations |
@@ -439,7 +439,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [snmp-ng](https://datatracker.ietf.org/group/snmp-ng) | ora | | 2008-Mar-28 | [ftp.tis.com](ftp://ftp.tis.com/pub/ietf/snmp-ng) ftp://ftp.tis.com/pub/ietf/snmp-ng | |
 | [snmpauth](https://datatracker.ietf.org/group/snmpauth) | sec | pre 3/1990 | 1990-Dec-15 | []() | SNMP Authentication |
 | [snmpconf](https://datatracker.ietf.org/group/snmpconf) | ops | | 2008-Mar-28 | [](mailto:snmpconf-request@snmp.com (index snmpconf in body)) | Configuration Management with SNMP |
-| [snmpext](https://datatracker.ietf.org/group/snmpext) | N/A | pre jun-1988 | pre-oct-1988 | []() | SNMP Extensions |
+| snmpext | N/A | pre jun-1988 | pre-oct-1988 | []() | SNMP Extensions |
 | [snmpsec](https://datatracker.ietf.org/group/snmpsec) | sec | 1991-Mar-15 | 1993-May-03 | []() | SNMP Security |
 | [snmpv2](https://datatracker.ietf.org/group/snmpv2) | mgt | 1994-Oct-06 | 1995-Dec-15 | [ftp.tis.com](ftp://ftp.tis.com/pub/ietf/snmpv2) ftp://ftp.tis.com/pub/ietf/snmpv2 | SNMP v2 |
 | [snmpv3](https://datatracker.ietf.org/group/snmpv3) | ops | | 2008-Mar-28 | [ftp.tislabs.com](ftp://ftp.tislabs.com/pub/ietf/snmpv3) ftp://ftp.tislabs.com/pub/ietf/snmpv3 | |
@@ -455,13 +455,13 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [ssh](https://datatracker.ietf.org/group/ssh) | usv | 1994-Nov-17 | 1999-Feb-08 | [info.cert.org](ftp://info.cert.org/pub/ietf/ssh) ftp://info.cert.org/pub/ietf/ssh | Site Security Handbook |
 | [ssm](https://datatracker.ietf.org/group/ssm) | rtg | | 2008-Mar-28 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/ssm) | Source-Specific Multicast |
 | [ssphwg](https://datatracker.ietf.org/group/ssphwg) | sec | 1990-Mar-26 | 1991-Aug-01 | []() | Site Security Policy Handbook |
-| [st-coip](https://datatracker.ietf.org/group/st-coip) | N/A | pre jun-1988 | | []() | ST and CO-IP |
+| st-coip | N/A | pre jun-1988 | | []() | ST and CO-IP |
 | [st2](https://datatracker.ietf.org/group/st2) | int | 1993-Oct-08 | 1996-Mar-15 | [ftp.bbn.com](ftp://ftp.bbn.com/pub/st/st-archive) ftp://ftp.bbn.com/pub/st/st-archive | Internet Stream Protocol |
 | [stdguide](https://datatracker.ietf.org/group/stdguide) | ops/usv | 1995-Oct-30 | 1998-Jul-31 | [ftp.midnight.com](ftp://ftp.midnight.com/pub/stdguide-archive) ftp://ftp.midnight.com/pub/stdguide-archive | Guide for Internet Standards Writers |
 | [stime](https://datatracker.ietf.org/group/stime) | sec | | 2008-Mar-28 | [www.nist.gov](http://www.nist.gov/itl/div896/emaildir/authtime/maillist.html) | |
 | [storm](https://datatracker.ietf.org/group/storm) | tsv | 2009-Aug-04 | 2016-Feb-24 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/storm/) | STORage Maintenance |
 | [stox](https://datatracker.ietf.org/group/stox) | art | 2013-Jun-14 | 2017-Jan-25 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/stox/) | SIP-TO-XMPP |
-| [str](https://datatracker.ietf.org/group/str) | | pre jun-1988 | | []() | Short Term Routing |
+| str | | pre jun-1988 | | []() | Short Term Routing |
 | [straw](https://datatracker.ietf.org/group/straw) | art | 2012-Jun-04 | 2017-Mar-17 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/straw/) | Sip Traversal Required for Applications to Work |
 | [sunset4](https://datatracker.ietf.org/group/sunset4) | int | 2012-May-01 | 2018-May-16 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/sunset4/) | Sunsetting IPv4 |
 | [supa](https://datatracker.ietf.org/group/supa) | ops | 2015-Oct-02 | 2017-Aug-03 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/supa/) | Simplified Use of Policy Abstractions |
@@ -472,7 +472,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [tcplw](https://datatracker.ietf.org/group/tcplw) | hus | 1990-Jan-01 | 1998-Apr-21 | []() | TCP Large Windows |
 | [tcpsat](https://datatracker.ietf.org/group/tcpsat) | tsv | 1997-Jul-10 | 2000-Feb-08 | [tcpsat.grc.nasa.gov](http://tcpsat.grc.nasa.gov/tcpsat/mail.html) | TCP Over Satellite |
 | [telnet](https://datatracker.ietf.org/group/telnet) | app | 1989-Jun-15 | 1994-Nov-28 | []() | Telnet |
-| [telnet-lm](https://datatracker.ietf.org/group/telnet-lm) | | pre jun-1988 | | []() | Telnet Linemode |
+| telnet-lm | | pre jun-1988 | | []() | Telnet Linemode |
 | [tewg](https://datatracker.ietf.org/group/tewg) | ops | 1990-Jan-30 | 1991-Aug-01 | [ops.ietf.org](http://ops.ietf.org/lists/te-wg) | Topology Engineering |
 | [tftpexts](https://datatracker.ietf.org/group/tftpexts) | app | 1994-Oct-06 | 1995-Mar-15 | []() | TFTP Extensions |
 | [thinosi](https://datatracker.ietf.org/group/thinosi) | app | 1993-Feb-01 | 1994-Oct-26 | []() | Minimal OSI Upper-Layers |
@@ -496,7 +496,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [udlr](https://datatracker.ietf.org/group/udlr) | rtg | | 2008-Mar-28 | [www.udcast.com](http://www.udcast.com/pipermail/udlr) | |
 | [upsmib](https://datatracker.ietf.org/group/upsmib) | o&m | pre 4-dec-1995 | 1999-Apr-05 | []() | Uninterruptible Power Supply |
 | [urc](https://datatracker.ietf.org/group/urc) | app | | 2008-Mar-28 | [ftp.gatech.edu](ftp://ftp.gatech.edu/pub/urc/archives) ftp://ftp.gatech.edu/pub/urc/archives | |
-| [uri](https://datatracker.ietf.org/group/uri) | usr/app | 1992-Sep-24 | 1995-Aug-02 | []() | Universal Resource Identifiers |
+| uri | usr/app | 1992-Sep-24 | 1995-Aug-02 | []() | Universal Resource Identifiers |
 | [urlreg](https://datatracker.ietf.org/group/urlreg) | app | 1997-Jul-15 | 1999-Nov-15 | [www.imc.org](http://www.imc.org/ietf-url/) | Uniform Resource Locator Registration Procedures |
 | [urn](https://datatracker.ietf.org/group/urn) | app | 1996-Sep-24 | 2002-Oct-22 | [lists.netsol.com](http://lists.netsol.com/archives/urn-ietf.html) | Uniform Resource Names |
 | [urnbis](https://datatracker.ietf.org/group/urnbis) | art | 2010-Nov-23 | 2017-Oct-25 | [mailarchive.ietf.org](https://mailarchive.ietf.org/arch/browse/urn/) | Uniform Resource Names, Revised |
@@ -504,7 +504,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [userdoc](https://datatracker.ietf.org/group/userdoc) | hus | pre 2/1990 | 1990-Mar-15 | []() | User Documents |
 | [userdoc2](https://datatracker.ietf.org/group/userdoc2) | usv | 1992-Mar-15 | 1994-Aug-10 | []() | User Documents Revisions |
 | [userglos](https://datatracker.ietf.org/group/userglos) | usv | | 2008-Mar-28 | [xylogics.com](ftp://xylogics.com/pub/users/gmalkin/usergloss/usergloss-arc) ftp://xylogics.com/pub/users/gmalkin/usergloss/usergloss-arc | |
-| [usergloss](https://datatracker.ietf.org/group/usergloss) | usv | 1990-Dec-20 | 1993-Jan-15 | []() | Internet User Glossary Working Group |
+| usergloss | usv | 1990-Dec-20 | 1993-Jan-15 | []() | Internet User Glossary Working Group |
 | [uswg](https://datatracker.ietf.org/group/uswg) | hus | 1989-Jan-15 | 2002-Oct-21 | [www.isc.org](http://www.isc.org/ml-archives/uswg/2000/maillist.html) | User Services |
 | [vcarddav](https://datatracker.ietf.org/group/vcarddav) | app | | 2012-Nov-14 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/vcarddav) | vCard and CardDAV |
 | [vgmib](https://datatracker.ietf.org/group/vgmib) | mgt | 1995-May-22 | 1998-Jan-27 | [rosegarden.external.hp.com](ftp://rosegarden.external.hp.com/pub/vgmib) ftp://rosegarden.external.hp.com/pub/vgmib | 100VG-AnyLAN MIB |
@@ -518,7 +518,7 @@ This page was hosted by Henrik Levkowetz for many years.  Much of the historic i
 | [websec](https://datatracker.ietf.org/group/websec) | app | 2010-Oct-12 | 2015-Apr-21 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/websec/) | Web Security |
 | [weird](https://datatracker.ietf.org/group/weird) | usv | 1999-May-17 | 2001-Feb-19 | [www.imc.org](http://www.imc.org/ietf-weird/) | Web Elucidation of Internet-Related Developments |
 | [weirds](https://datatracker.ietf.org/group/weirds) | app | 2012-May-15 | | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/weirds/) | Web Extensible Internet Registration Data Service |
-| [wg](https://datatracker.ietf.org/group/wg) | | | 2010-Apr-13 | []() | |
+| wg | | | 2010-Apr-13 | []() | |
 | [wg-msg](https://datatracker.ietf.org/group/wg-msg) | app | | 2008-Mar-28 | []() | |
 | [whip](https://datatracker.ietf.org/group/whip) | app | 1994-Jun-09 | 1995-Jun-22 | [ftp.es.net](ftp://ftp.es.net/pub/ietf/wps) ftp://ftp.es.net/pub/ietf/wps | Internet White Pages Requirements |
 | [widex](https://datatracker.ietf.org/group/widex) | app | 2005-Oct-24 | 2008-Mar-28 | [www.ietf.org](https://mailarchive.ietf.org/arch/browse/widex) | Widget Description Exchange Service |
