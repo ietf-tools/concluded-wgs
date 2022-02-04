@@ -1,8 +1,13 @@
 # Concluded Group Information
 
-This is a place to capture information about concluded groups (Working Groups, Research Groups, etc.) that the datatracker may not yet know about.
+This is a place to capture information about concluded groups (Working Groups, Research Groups, etc.) that the datatracker may not yet know about. After curation, this data will move into the datatracker.
 
-This page was hosted by Henrik Levkowetz for many years.  Much of the historic information available here was provided by Scott O. Bradner. Many thanks!
+This page was hosted and maintained by Henrik Levkowetz for many years.  
+Much of the historic information available here was provided by Scott O. Bradner. Many thanks!
+
+Many of the Archive links are stale. Use them with caution.
+
+If you have records of group history not reflected in the dataracker or captured here, please open an issue, make a pull request, or send mail to support@ietf.org.
 
 | WG | Area | Chartered | Concluded | Archive | Name |
 |----|------|-----------|-----------|---------|------|
